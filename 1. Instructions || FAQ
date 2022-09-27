@@ -2,4 +2,5 @@
 2. Save the code in a file naming dbg.h (for header file). Or you can download the file as it is.
 3. Put the file (dbg.h) in the folder from where you run your code.
 4. Copy the source code from headerFile.cpp and paste it to the below of you other header files in which code you want debug.
-5. Check the demo.cpp file for better understanding.
+5. After doing everything currectly you are ready to use debug just writhing debug(perameter)
+6. Check the demo.cpp file for better understanding.
